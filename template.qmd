@@ -1,8 +1,8 @@
 ---
-title: "Your awesome project title"
+title: "Playing around with automating documentation"
 author:
-  name: "You et al"
-  affiliation: "From whence you hail"
+  name: "Samik Datta"
+  affiliation: "NIWA, Wellington, New Zealand"
 date: today
 bibliography: refs.bib
 from: markdown+emoji
