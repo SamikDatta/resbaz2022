@@ -1,5 +1,5 @@
 ---
-title: "Playing around with automating documentation"
+title: "Playing around with automating documentation (updated with Github Actions)"
 author:
   name: "Samik Datta"
   affiliation: "NIWA, Wellington, New Zealand"
